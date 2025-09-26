@@ -55,4 +55,7 @@ Here’s a deeper dive into what each major part accomplishes and which skills i
 - **Feature engineering & interpretability**: not just black-box models  
 - **Experiment design / validation**: avoiding overfitting, robust evaluations  
 - **Critical thinking in error analysis & bias**: understanding model weaknesses  
+<img width="678" height="492" alt="Screenshot 2025-09-26 at 9 51 15 AM" src="https://github.com/user-attachments/assets/e0b4dbbe-3b97-4d2f-a4d5-ff6b8cacdadb" />
 
+<img width="678" height="492" alt="Screenshot 2025-09-26 at 9 51 06 AM" src="https://github.com/user-attachments/assets/6735c996-aff3-4ac7-a0e7-4b55667b4fd1" />
+<img width="875" height="492" alt="Screenshot 2025-09-26 at 9 50 53 AM" src="https://github.com/user-attachments/assets/0053b0bb-14c5-49c2-9023-2e0d895c2ffb" />
