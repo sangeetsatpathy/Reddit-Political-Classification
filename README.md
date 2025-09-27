@@ -57,7 +57,7 @@ Here’s a deeper dive into what each major part accomplishes and which skills i
 - **Critical thinking in error analysis & bias**: understanding model weaknesses
 
 --
-## Results
+## Effect of Data Cleaning on Train & Test Accuracies (for various models)
 
 <img width="678" height="492" alt="Screenshot 2025-09-26 at 9 51 15 AM" src="https://github.com/user-attachments/assets/e0b4dbbe-3b97-4d2f-a4d5-ff6b8cacdadb" />
 
