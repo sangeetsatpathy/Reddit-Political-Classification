@@ -1,6 +1,7 @@
 # Reddit Political Classification  
 Trump Quote:
-<img width="2290" height="668" alt="image" src="https://github.com/user-attachments/assets/63a50ba4-6e7c-4643-a281-c4c0c619194b" /><br>
+<img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 40 21 PM" src="https://github.com/user-attachments/assets/a8e9d843-b959-4aa2-bb47-f402ff42ac55" />
+<br>
 Obama Quote:
 <img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 38 57 PM" src="https://github.com/user-attachments/assets/32849340-3be7-4eea-bf4e-79c028931639" /> <br>
 Trump Quote:
