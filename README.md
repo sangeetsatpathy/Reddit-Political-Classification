@@ -1,7 +1,11 @@
 # Reddit Political Classification  
-<img width="1145" height="334" alt="Screenshot 2025-09-28 at 1 38 09 PM" src="https://github.com/user-attachments/assets/7e900d44-42c2-4401-941b-f73ce99a010f" />
-<img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 38 57 PM" src="https://github.com/user-attachments/assets/32849340-3be7-4eea-bf4e-79c028931639" />
-<img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 39 44 PM" src="https://github.com/user-attachments/assets/45620a4b-7ba2-4f86-b8d9-731a6d46fce9" />
+Trump Quote:
+<img width="1145" height="334" alt="Screenshot 2025-09-28 at 1 38 09 PM" src="https://github.com/user-attachments/assets/7e900d44-42c2-4401-941b-f73ce99a010f" /><br>
+Obama Quote:
+<img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 38 57 PM" src="https://github.com/user-attachments/assets/32849340-3be7-4eea-bf4e-79c028931639" /> <br>
+Trump Quote:
+<img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 39 44 PM" src="https://github.com/user-attachments/assets/45620a4b-7ba2-4f86-b8d9-731a6d46fce9" /> <br>
+Biden Quote:
 <img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 40 21 PM" src="https://github.com/user-attachments/assets/e811c450-ae9e-4d8f-88f9-53d6274059e7" />
 
 Classifies political orientation as either Liberal or Conservative based on a message that is sent! Trained on Reddit messages sent in r/Conservative and r/Liberal.
