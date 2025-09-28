@@ -2,6 +2,7 @@
 
 Classifies political orientation as either Liberal or Conservative based on a message that is sent! Trained on Reddit messages sent in r/Conservative and r/Liberal.
 Automated political stance classification using natural language processing (NLP) and machine learning. This project ingests raw Reddit text, transforms it via feature engineering, trains classification models, and evaluates performance — with a strong focus on interpretability and real-world application.
+
 Compared model performance on several classifiers: Logistic Regressor, K-Nearest Neighbors, Support Vector, Random Forest, and Multilayer Perceptron.
 
 ---
