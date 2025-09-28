@@ -8,10 +8,12 @@ Trump Quote:
 Biden Quote:
 <img width="1145" height="80" alt="Screenshot 2025-09-28 at 1 40 21 PM" src="https://github.com/user-attachments/assets/e811c450-ae9e-4d8f-88f9-53d6274059e7" />
 
-Classifies political orientation as either Liberal or Conservative based on a message that is sent! Trained on Reddit messages sent in r/Conservative and r/Liberal.
+Classifies political orientation as either Liberal or Conservative based on a message! Trained on Reddit messages sent in r/Conservative and r/Liberal.
 Automated political stance classification using natural language processing (NLP) and machine learning. This project ingests raw Reddit text, transforms it via feature engineering, trains classification models, and evaluates performance — with a strong focus on interpretability and real-world application.
 
 Compared model performance on several classifiers: Logistic Regressor, K-Nearest Neighbors, Support Vector, Random Forest, and Multilayer Perceptron.
+
+Models perform well with decent accuracy, but have very low confidence scores (they barely get it right). An add-on would be to integrate context (like in Transformers).
 
 ---
 
